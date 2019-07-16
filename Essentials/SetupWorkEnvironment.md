@@ -1,9 +1,9 @@
 # Setup my work environment
 
 1. Download the latest version of Xcode.
-2. Install Bundler with `gem install bundler`.
-3. Run `git clone git@github.com:transcovo/iOS.git`.
-4. Run `make setup`.
+2. In the Terminal, install Bundler with `sudo gem install bundler`.
+3. Run `git clone git@github.com:transcovo/iOS.git` to clone the project .
+4. Run `make setup` in order to install all dependencies.
 5. ☕️ time.
 6. Open the `.xcworkspace`  of the rider or driver app.
 7. Run the app.
