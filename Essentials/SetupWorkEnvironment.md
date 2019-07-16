@@ -2,7 +2,7 @@
 
 1. Download the latest version of Xcode.
 2. In the Terminal, install Bundler with `sudo gem install bundler`.
-3. Run `git clone git@github.com:transcovo/iOS.git` to clone the project .
+3. Run `git clone git@github.com:transcovo/iOS.git` to clone the project.
 4. Run `make setup` in order to install all dependencies.
 5. ☕️ time.
 6. Open the `.xcworkspace`  of the rider or driver app.
