@@ -8,7 +8,7 @@
 * [👨‍💻 Join the right Slack channels](./Essentials/SlackChannels.md)
 
 ## Day-to-day operations
-* [🌍 Translate my content](./Day-to-day%20operations/TranslateContent.md)
+* [🌐 Translate my content](./Day-to-day%20operations/TranslateContent.md)
 * [👁 Track some events](./Day-to-day%20operations/TrackEvents.md)
 * [🕵️‍♀️ Check that the analytics are working as intended](./Day-to-day%20operations/CheckAnalytics.md)
 * [🛠 Change the environment of the app](./Day-to-day%20operations/ChangeAppEnvironment.md)
