@@ -9,8 +9,7 @@ You need to see if the backend is sending proper data.
 3. In the tab `SSL Proxying`, add the following values :
 
 ```
-// Staging
-Host: api.staging.chpr.fr - Port: 443
+Host: <ENVIRONMENT_HOSTNAME> - Port: 443
 ```
 
 :bulb: : If you're testing on other environments, you will need to add the host and the port for them.
@@ -25,8 +24,8 @@ Host: api.staging.chpr.fr - Port: 443
 
 1. On your device, go to http://www.charlesproxy.com/getssl to install Charles Certificate.
 2. On your device, go to `Settings > General > About > Certificate Trust Settings` and enable `Charles Proxy CA`.
-3. On your Mac, go to `Settings > Network` and get your `IP Address`.
+3. On your Mac, go to `Settings > Network`, select your Wi-Fi network and get your `IP Address`.
 4. On your device, go to `Settings > Wi-Fi` and tap on the same Wi-Fi network than your Mac.
-5. Go to `Configure Proxy` and set it to `Manual`. Type your `IP Address` from step 4 and `8888` as Port.
+5. Go to `Configure Proxy` and set it to `Manual`. Type your `IP Address` from step 3 and `8888` as Port.
 6. On your Mac, Charles should show you a pop up asking for your permission.
 7. Launch the app, you should see every requests the app is sending and their response.
