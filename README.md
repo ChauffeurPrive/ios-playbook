@@ -30,3 +30,4 @@
 * [🕵️‍♂️ Debug my UI](./Utilities/DebugUI.md) -- _Work in progress_
 * [🚩 Hide my feature behind a feature flag](./Utilities/FeatureFlag.md) -- _Work in progress_
 * [➡️ Add a new deeplink](./Utilities/AddDeeplink.md) -- _Work in progress_
+* [✍️ Renew Development Certificates and Provisioning Profiles](./Utilities/CertsPP.md)
