@@ -25,7 +25,7 @@
 * [👤 Create test accounts](./Utilities/CreateTestAccounts.md) -- _Work in progress_
 * [🚗 Test the ride flow](./Utilities/TestRideFlow.md) -- _Work in progress_ 
 * [📱 Prepare for a demo](./Utilities/PrepareForDemo.md) -- _Work in progress_
-* [💳 Use fake cards](./Utilities/UseFakeCards.md)
+* [💳 Payment on testing environments](./Utilities/PaymentTestingEnvironments.md)
 * [📡 Check what the backend is sending me](./Utilities/CheckBackend.md)
 * [🕵️‍♂️ Debug my UI](./Utilities/DebugUI.md) -- _Work in progress_
 * [🚩 Hide my feature behind a feature flag](./Utilities/FeatureFlag.md) -- _Work in progress_
